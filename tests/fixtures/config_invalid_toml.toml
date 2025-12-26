@@ -1,0 +1,7 @@
+[video]
+codec = "libx264"
+crf = invalid_number
+
+[audio]
+codec = "aac"
+bitrate = "128k"
