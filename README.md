@@ -1,6 +1,7 @@
 # Rust FFmpeg Encoder
 
 A simple CLI tool to encode videos using FFmpeg with TOML-based configuration.
+Made with the help of GLM4.7
 
 ## Features
 
