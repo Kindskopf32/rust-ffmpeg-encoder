@@ -124,6 +124,3 @@ rust-ffmpeg-encoder/
 - Config errors: Detailed messages for missing or invalid config files
 - FFmpeg errors: Passes through FFmpeg's exit codes and error messages
 
-## License
-
-MIT
